@@ -1,28 +1,18 @@
 
 # Codeforces Visualizer
 
-# 1. Introduction
+## Introduction
  A customisable Google Chrome Extension that gives whole analyses of the coding journey of any user on the code forces platform via Handle.
 
-# 2. Technologies and Libraries Used
+## Technologies and Libraries Used
 * Node.js
 * Javascript
 * CSS
 * HTML
 * Codeforces API's
 
-# 3. Files
- * **lib/** : Required libraries files for the graph implementation and jquerry.
- * **scripts/** : Javascript files which control all the analysis part in background.
- * **css/** : css for analysis page.
- * **manifest.json** : Menifest file for the chrome extension.
-
-# 4. Working
+## Working
 1. Load Unpacked Extension in Your Google Chrome Browser.
-
-
-
-
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/83970478/176512130-5f6e3f4d-dad7-4513-9ef5-1e8aef572972.png)
 
@@ -71,3 +61,18 @@
 10. About page contains the repo link, containing the Project Github Repository link. 
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/83970478/176519939-52a92f3f-43cb-4819-ae49-6ca03b95e995.png)
+
+## Credits
+I want to thank my teammate in this project.
+- [arsh-v](https://github.com/arsh-v)
+
+
+## 🚀 About Me
+I'm a IITG Student of Mathematics department.
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jash-roy-515aa8200/)
+
+
+
