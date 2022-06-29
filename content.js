@@ -1,12 +1,5 @@
 console.log("content script is running");
 
-// let per = document.getElementsByTagName('p');
-// let msg = document.getElementById('userinput');
-// var x = 0;
-// for (elt of per) {
-//     elt.innerHTML = msg;
-    
-// }
 chrome.runtime.onMessage.addListener(gotMessage);
 
 function gotMessage(message, sender, send) {
@@ -19,19 +12,3 @@ function gotMessage(message, sender, send) {
     }
     
 }
-
-
-
-// let userinput = select('#userinput');
-
-// userinput.input(changedText);
-
-
-// function changedText(){
-//     chrome.tabs.getCurrent(gotTab);
-
-//     function gotTab(tab){
-//         let message = userinput.value();
-//         let 
-//     }
-// }
